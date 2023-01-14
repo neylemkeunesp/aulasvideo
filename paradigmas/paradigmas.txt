@@ -1,0 +1,11 @@
+Os paradigmas de programação são diferentes maneiras de pensar sobre a resolução de problemas através da programação. Alguns dos principais paradigmas são:
+
+Programação procedural: neste paradigma, os programas são compostos por procedimentos ou funções que executam uma tarefa específica. A programação procedural é comumente utilizada em linguagens de baixo nível, como C.
+
+Orientação a objetos: neste paradigma, os programas são compostos por objetos que possuem estado e comportamento. A orientação a objetos é comumente utilizada em linguagens como Java e C++.
+
+Programação funcional: neste paradigma, os programas são compostos por funções matemáticas puras que não possuem efeitos colaterais. A programação funcional é comumente utilizada em linguagens como Haskell e Lisp.
+
+Programação lógica: neste paradigma, os programas são compostos por declarações lógicas que são avaliadas para determinar a verdade ou falsidade. A programação lógica é comumente utilizada em linguagens como Prolog.
+
+É importante lembrar que muitas linguagens de programação modernas suportam mais de um paradigma, permitindo que os programadores escolham o que mais se adequa ao problema que estão tentando resolver.

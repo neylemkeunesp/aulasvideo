@@ -1,0 +1,5 @@
+Olá pessoal! Hoje vamos falar sobre paradigmas de programação, que são diferentes formas de organizar e 
+escrever código de computador. Existem vários paradigmas diferentes, cada um com suas próprias
+características e aplicações. Vamos explorar alguns dos principais paradigmas de programação 
+e discutir suas vantagens e desvantagens. Então, se você está interessado em aprender mais sobre
+como escrever código de maneira eficiente e clara, fique conosco!
